@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "azureadmin"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "W8ing4thesun"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "bergmeijer.loagfasdf"
     }
   }
 }
